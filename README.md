@@ -16,6 +16,7 @@ Mera 90 din ka DevOps learning journey, book **"90 Days of DevOps" by Shubham Lo
 | Day | Topic | Notes |
 |---|---|---|
 | 04 | Linux intro, VM setup, filesystem navigation | [day04](day04/) |
+| 05 | File operations, text manipulation, nano, vim | [day05](day05/) |
 
 ## Structure
 
